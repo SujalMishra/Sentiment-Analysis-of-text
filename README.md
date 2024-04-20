@@ -2,6 +2,9 @@
 
 This repository contains two main components: a React web application and a Flask server.
 
+## DATASET LINK :
+https://www.kaggle.com/code/widhiwinata/twitter-and-reddit-sentiment-analysis/input
+
 ## React Web Application (ci_project)
 
 The `ci_project` folder contains a React web application. To run the application, follow these steps:
@@ -31,6 +34,7 @@ The `ci_server` folder contains a Flask server. To run the application, follow t
 1. Navigate to the `ci_server` folder:
    ```bash
    cd ci_server
+
 
 2. Start Server :
    ```bash
