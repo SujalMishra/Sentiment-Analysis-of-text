@@ -15,14 +15,22 @@ The `ci_project` folder contains a React web application. To run the application
 3. Start Frontend :
    ```bash
    npm start
+   
+## Installing tensorflow and other dependencies
 
+The `ci_project` folder contains a React web application. To run the application, follow these steps:
+
+1. In the `ci_project` folder run:
+   ```bash
+   !pip install tensorflow numpy scikit-learn 
+   
 ## Flask Web Server (ci_server)
 
 The `ci_server` folder contains a Flask server. To run the application, follow these steps:
 
 1. Navigate to the `ci_server` folder:
    ```bash
-   cd ci_project
+   cd ci_server
 
 2. Start Server :
    ```bash
