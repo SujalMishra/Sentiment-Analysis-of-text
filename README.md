@@ -39,5 +39,5 @@ The `ci_server` folder contains a Flask server. To run the application, follow t
 2. Start Server :
    ```bash
    python run server.py
-## Link for _pkl files
+## Link for _pkl files which can be used in the backend to implement model
 _pkl files of models used for using backend : https://drive.google.com/drive/u/0/folders/1RZ3SNEe6utDkAyg6Eb4r4LlXRPh26G3G .
